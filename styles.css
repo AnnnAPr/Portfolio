@@ -1,18 +1,26 @@
-.navbar-nav {
+/* .navbar-nav {
   margin-left: 60%;
-}
+} */
 
-* {
+/* * {
   border: 3px solid black;
-}
+} */
 
-/* h2 {
+ /* h2 {
   text-align: center;
   font-size: 4rem;
-}
+} */
 
 img {
   width: 40%;
-  /* height: 60%; */
-} */
+  height: 80%;
+}
+
+.main {
+  background-color: beige;
+}
+
+.contact {
+  background-color: beige;
+}
 
